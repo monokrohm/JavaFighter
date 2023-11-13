@@ -1,0 +1,15 @@
+Fighter Ray HP: 100  |  Fighter CPU HP: 50
+Both fighters have taken a defensive stance
+Fighter Ray HP: 100  |  Fighter CPU HP: 50
+Ray used Punch to deal 10 damage but damage was halved because CPU was blocking
+Fighter Ray HP: 100  |  Fighter CPU HP: 45
+Ray used their special move to deal 15
+CPU used Kick to deal 20 damage
+Fighter Ray HP: 80  |  Fighter CPU HP: 30
+Ray used Kick to deal 20 damage
+CPU used Punch to deal 10 damage
+Fighter Ray HP: 70  |  Fighter CPU HP: 10
+Both fighters Punch each other dealing 10 damage to each other
+A Winner Has Been Decided!!!
+Ray Has Conquered CPU With 70 HP Remaining!
+
